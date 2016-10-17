@@ -12,7 +12,7 @@
 * Learned to turn on the developer mode in an Android device and to enable USB Debugging for testing the application on my mobile phone.
 * Learned some basic command line Commands for compiling the code, creating an Apk file, installing it and finally running it on my Android device.
 * Learned about building a UI with a layout editor by dragging widgets into a visual design editor instead of writing the layout XML.
-* Got to know about the various layouts in an Android application.
+* Got to know about the various layouts in an Android application:
 
 #### Linear Layout:
 * It is a view group that aligns all children in a single direction, vertically or horizontally. 
