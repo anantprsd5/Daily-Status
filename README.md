@@ -38,4 +38,4 @@
 
 * Got to know about Adapters in Android which are the glue that allows us to bind our underlying data to our user interface elements.
 
-#### &nbsp;&nbsp;&nbsp;&nbsp; Adapters are a little unusual compared to similar mechanisms in other frameworks, in that the Adapter itself is responsible for creating the Views that are displayed within the bound AdapterView (for example a ListView) - while the AdapterView is responsible for how those views are laid out.
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp Adapters are a little unusual compared to similar mechanisms in other frameworks, in that the Adapter itself is responsible for creating the Views that are displayed within the bound AdapterView (for example a ListView) - while the AdapterView is responsible for how those views are laid out.
