@@ -25,3 +25,17 @@
 
 #### &nbsp;&nbsp;&nbsp;&nbsp; Grid View:
 * GridView is a ViewGroup that displays items in a two-dimensional, scrollable grid.
+
+## 21 October 2016
+
+* Learned to define a UI of the app within the XML files in the resources folder.
+
+* Learned about the MainActivityFragment which is java program used to display the cotents defined in the XML files.
+
+* Got to know about adding or changing layouts in the fragment_main.xml file in the Layout folder. This thing can also be done using the auto import settings of the Android Studio.
+
+* To enable auto-import, go to Android Studio > Preferences > Editor > General > Auto Import check all the boxes and insert all imports on paste
+
+* Got to know about Adapters in Android which are the glue that allows us to bind our underlying data to our user interface elements.
+
+#### &nbsp;&nbsp;&nbsp;&nbsp; Adapters are a little unusual compared to similar mechanisms in other frameworks, in that the Adapter itself is responsible for creating the Views that are displayed within the bound AdapterView (for example a ListView) - while the AdapterView is responsible for how those views are laid out.
