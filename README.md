@@ -26,7 +26,7 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp; Grid View:
 * GridView is a ViewGroup that displays items in a two-dimensional, scrollable grid.
 
-## 21 October 2016
+## 22 October 2016
 
 * Learned to define a UI of the app within the XML files in the resources folder.
 
