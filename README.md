@@ -37,3 +37,9 @@
 * To enable auto-import, go to Android Studio > Preferences > Editor > General > Auto Import check all the boxes and insert all imports on paste
 
 * Got to know about Adapters in Android which are the glue that allows us to bind our underlying data to our user interface elements.
+
+## 5 November 2016
+
+* Today I got to know about DNS spoofing by a session conducted by Aravind.
+
+* Enrolled into a udacity Android Developer nanodegree program and am currently working on the first leg of the project which is abut adding few buttons in an android using relative layout.
