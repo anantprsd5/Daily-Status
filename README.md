@@ -42,4 +42,4 @@
 
 * Today I got to know about DNS spoofing by a session conducted by Aravind.
 
-* Enrolled into a udacity Android Developer nanodegree program and am currently working on the first leg of the project which is abut adding few buttons in an android using relative layout.
+* Enrolled into Udacity Android Developer nanodegree program which is free for a month beacuse of github education pack and I am currently working on the first leg of the project which is about adding few buttons in an android using relative layout.
