@@ -40,6 +40,6 @@
 
 ## 5 November 2016
 
-* Today I got to know about DNS spoofing by a session conducted by Aravind.
+* Today I got to know about DNS spoofing by a session conducted by Arvind.
 
-* Enrolled into Udacity Android Developer nanodegree program which is free for a month beacuse of github education pack and I am currently working on the first leg of the project which is about adding few buttons in an android application using relative layout which on being clicked will show a relevant message.
+* Enrolled into Udacity Android Developer nanodegree program which is free for a month beacuse of Github education pack and I am currently working on the first leg of the project which is about adding few buttons in an android application using relative layout which on being clicked will show a relevant message.
