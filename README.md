@@ -43,3 +43,13 @@
 * Today I got to know about DNS spoofing by a session conducted by Aravind.
 
 * Enrolled into Udacity Android Developer nanodegree program which is free for a month beacuse of github education pack and I am currently working on the first leg of the project which is about adding few buttons in an android application using relative layout which on being clicked will show a relevant message.
+
+## 6th November 2016
+
+* Today I completed the first leg of the nanodegree project.
+
+* It was about Creating a layout for the main activity, adding a title, buttons for each app, and a style of our choosing.
+
+* To define a function in the main activity which displays the name of the particular app on the button being clicked as a toast message.
+
+* The link to my project : _https://github.com/anantprsd5/Udacity_Nano_ .
