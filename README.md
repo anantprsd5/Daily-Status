@@ -56,9 +56,9 @@
 
 ## 8th November 2016
 
-* Today I continued with my nanodegree course. I got the review of the first project which I submitted, in that everything was perfect except for the fact that I didn't thought about the different screen sizes and different orientations so some part of the display was not visible in landscape mode. For this the suggested to implement linear layout inside of a scroll view. After that everthing works fine.
+* Today I continued with my nanodegree course. I got the review of the first project which I submitted, in that everything was perfect except for the fact that I didn't thought about the different screen sizes and different orientations so some part of the display was not visible in landscape mode. For this the reviewer suggested to implement linear layout inside of a scroll view. After that everthing works fine.
 
-* Continued working on the second leg of the project of creating a weather app got to know about implementing list views and working with Array Adapters.
+* Continued working on the second leg of the project of creating a weather app. I Got to know about implementing list views and working with Array Adapters.
 
 * Hope to complete the second project soon.
 
