@@ -40,7 +40,7 @@
 
 ## 5 November 2016
 
-* Today I got to know about DNS spoofing by a session conducted by Aravind.
+* Today I got to know about DNS spoofing by a session conducted by Arvind.
 
 * Enrolled into Udacity Android Developer nanodegree program which is free for a month beacuse of github education pack and I am currently working on the first leg of the project which is about adding few buttons in an android application using relative layout which on being clicked will show a relevant message.
 
@@ -58,8 +58,7 @@
 
 * Today I continued with my nanodegree course. I got the review of the first project which I submitted, in that everything was perfect except for the fact that I didn't thought about the different screen sizes and different orientations so some part of the display was not visible in landscape mode. For this the reviewer suggested to implement linear layout inside of a scroll view. After that everthing works fine.
 
-* Continued working on the second leg of the project of creating a weather app. I Got to know about implementing list views and working with Array Adapters.
+* Continued working on the second leg of the project of creating a weather app. I got to know about implementing list views and working with Array Adapters.
 
-* Hope to complete the second project soon.
 
 
