@@ -62,4 +62,14 @@
 
 * Hope to complete the second project soon.
 
+## 13th November 2016
+
+* Today I worked on a bug in Susi-Android App. In the login screen and sign up screen the top and bottom content was not visible due to absence of a scroll view in it so I added the same and uploaded the screenshots on the github issue page for reviews. Once they review it I will be sending the pull request.
+
+* Then I continued with my nanodegree course. I got to know about the AsyncTask which allows you to perform background operations and publish results on the UI thread without having to manipulate threads and/or handlers. I created a new class and using the AsyncTask added the code to get the weather data  from the JSON file using openweathermap API.
+
+* I am currently working on replacing my fake data in the list view with the updated real weather data using the openweathermap API which is th second leg of the project.
+
+
+
 
