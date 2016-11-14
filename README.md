@@ -78,7 +78,5 @@
 
 * I am contacting the developers of the organisation to get some help with the issue.
 
-                                                   _GOOD DAY_
-
 
 
