@@ -70,6 +70,15 @@
 
 * Also I was working on the bug of my organisation's app in which the top and bottom content of th login and signup screen was not visible due to the lack of scroll view in it.
 
+## 14th November 2016
+
+* Today I was working on a bug in the Susi-android chatbot application. The bug was that when we enable the text to speech option it offers a file download for the selected language in text to speech settings of the phone. In that I am supposed to fallback to the english ""US"" Locale inspite of offering a file download.
+
+* The main problem is that I am unable to reproduce that bug as in my phone for every language it is working fine. Even in the codebase I can see that the language was just set to US and it is just responding in the english ""US"" language.
+
+* I am contacting the developers of the organisation to get some help with the issue.
+
+                                                   ""GOOD DAY""
 
 
 
