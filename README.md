@@ -78,5 +78,14 @@
 
 * I am contacting the developers of the organisation to get some help with the issue.
 
+## 18th November 2016
+
+* Currently I am working on my organisation's android app SUSI. In that I have to implement a language settings which will trigger the selected text to speech language on the respective button being clicked inside of language settings. I was stuck in that from the last one day beacuse whenever I was using a list preference insdie of the preference settings layout to display the list of languages available for the text to speech, the app was crashing and I was unable to debug what the error was and stackoverflow was also unable to solve the problem. Even when I was using an intent along with the preference screen to load up a new subscreen the app was crashing.
+
+## 19th November 2016
+
+* Today I continued to work on the enhancement. After searching for a while and losing all hopes of finding the solution I just randomly decided to clear the data and reset the application in my phone. And it just worked, still I don't know what was the root of that problem.
+
+* The issue on which I was working on was closed in favor of a new issue and in that I have to work on the TTS language but the enhancement is slightly different from the first one. In this I am supposed to add a language button inside of a settings app which will redirect to the phones TTS language settings. And on selecting the language from the settings will trigger the TTS in respective language.
 
 
