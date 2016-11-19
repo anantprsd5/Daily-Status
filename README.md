@@ -86,6 +86,6 @@
 
 * Today I continued to work on the enhancement. After searching for a while and losing all hopes of finding the solution I just randomly decided to clear the data and reset the application in my phone. And it just worked, still I don't know what was the root of that problem.
 
-* The issue on which I was working on was closed in favor of a new issue and in that I have to work on the TTS language but the enhancement is slightly different from the first one. In this I am supposed to add a language button inside of a settings app which will redirect to the phones TTS language settings. And on selecting the language from the settings will trigger the TTS in respective language.
+* The issue on which I was working on was closed in favor of a new issue and in that I have to work on the TTS language but the enhancement is slightly different from the first one. In this I am supposed to add a language button inside of a settings app which will redirect to the phones TTS language settings and on selecting the language from the settings will trigger the TTS in respective language.
 
 
